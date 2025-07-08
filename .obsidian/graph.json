@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "tag:#база  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 0.736694386694387,
   "lineSizeMultiplier": 2.28513513513514,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0,
   "repelStrength": 19.2307692307692,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7386278775464347,
+  "scale": 0.523451284479412,
   "close": false
 }
