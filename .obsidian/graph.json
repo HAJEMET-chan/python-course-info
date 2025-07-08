@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "tag:#ОченьПродвинутыйУровень  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#ПродвинутыйУровень  ",
+      "color": {
+        "a": 1,
+        "rgb": 11206400
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +39,6 @@
   "repelStrength": 19.2307692307692,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.523451284479412,
+  "scale": 0.18758551790291197,
   "close": false
 }
