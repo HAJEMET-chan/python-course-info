@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "d14aae6364a5465c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc44ee66783c1fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b2fbc8b188310a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 этап - основы/1 урок/типы данныый.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "типы данныый"
+            }
+          },
+          {
+            "id": "de4c292e81069611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Стандартная библиотека Python/встроенные функции/встроенные функции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "встроенные функции"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35272fa4b672394b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8fd3ac578f57216",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efe2facdc98d3c9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "072ef53470370ff6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a7abe98c9e09ccea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64c0cc7679015cc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1705afac35d9564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "361223137329cf04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 этап - основы/1 урок/типы данныый.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for типы данныый"
+            }
+          },
+          {
+            "id": "2cadfc4b966fd49e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 этап - основы/1 урок/типы данныый.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from типы данныый"
+            }
+          },
+          {
+            "id": "f6d6e3e1447fc255",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87e4f7f6905d01fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 этап - основы/1 урок/типы данныый.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of типы данныый"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "de4c292e81069611",
+  "lastOpenFiles": [
+    "Стандартная библиотека Python/встроенные функции/print().md",
+    "Стандартная библиотека Python/встроенные функции/abc().md",
+    "Стандартная библиотека Python/встроенные функции/встроенные функции.md",
+    "Стандартная библиотека Python/инфа которую нужно рассказать.md",
+    "Стандартная библиотека Python/встроенные константы/встроенные константы.md",
+    "Стандартная библиотека Python/встроенные исключения/встроенные исключения.md",
+    "Стандартная библиотека Python/встроенные исключения",
+    "Стандартная библиотека Python/Untitled.md",
+    "Стандартная библиотека Python/встроенные типы данных",
+    "Стандартная библиотека Python/встроенные типы данных/встроенные типы данных.md",
+    "Стандартная библиотека Python/встроенные константы",
+    "Стандартная библиотека Python/встроенные функции",
+    "Стандартная библиотека Python",
+    "1 этап - основы/1 урок/типы данныый.md",
+    "1 этап - основы/1 урок/про Python.md",
+    "1 этап - основы/1 урок/установка и настройка.md",
+    "1 этап - основы/1 урок",
+    "Welcome.md",
+    "1 этап - основы"
+  ]
+}
