@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#база  ",
@@ -39,6 +39,6 @@
   "repelStrength": 19.2307692307692,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.18758551790291197,
+  "scale": 0.3129244010561837,
   "close": false
 }
