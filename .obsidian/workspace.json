@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "уроки/1 урок.md",
+                "file": "mlCourse/линейная алгебра.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 урок"
+              "title": "линейная алгебра"
             }
           },
           {
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of типы данныый"
             }
+          },
+          {
+            "id": "5c8cb4653c05fca0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,18 +189,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "21accd588662f3de",
   "lastOpenFiles": [
-    "Стандартная библиотека Python/встроенные функции/встроенные функции.md",
     "уроки/1 урок.md",
+    "mlCourse/линейная алгебра.md",
+    "mlCourse",
+    "all_bookmarks.txt",
+    "Стандартная библиотека Python/встроенные функции/bool().md",
+    "main.py",
+    "Стандартная библиотека Python/встроенные функции/встроенные функции.md",
     "уроки",
     "Стандартная библиотека Python/встроенные функции/dict().md",
     "Стандартная библиотека Python/встроенные функции/breakpoint().md",
-    "main.py",
-    "Стандартная библиотека Python/встроенные функции/bool().md",
     "Стандартная библиотека Python/встроенные функции/bin().md",
     "Стандартная библиотека Python/встроенные функции/abs().md",
     "Стандартная библиотека Python/встроенные функции/aiter().md",
@@ -215,10 +229,7 @@
     "Стандартная библиотека Python/Услуги по изучению языка Python",
     "Стандартная библиотека Python/Импорт модулей/Импорт модулей.md",
     "Стандартная библиотека Python/Импорт модулей",
-    "Стандартная библиотека Python/Пользовательские интерпретаторы Python/Пользовательские интерпретаторы Python.md",
     "Стандартная библиотека Python/Пользовательские интерпретаторы Python",
-    "Стандартная библиотека Python/Службы времени выполнения Python",
-    "Стандартная библиотека Python/Упаковка и распространение программного обеспечения",
-    "Стандартная библиотека Python/Отладка и профилирование"
+    "Стандартная библиотека Python/Службы времени выполнения Python"
   ]
 }

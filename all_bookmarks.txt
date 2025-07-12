@@ -1,0 +1,300 @@
+CyberForum: https://www.cyberforum.ru/tags/data%20science.html
+World Data Science Forum: https://www.worlddsf.org/
+Kaggle: https://www.kaggle.com/discussions
+Towards Data Science: https://towardsdatascience.com/
+Data Science Central: https://www.datasciencecentral.com/
+Data Robot: https://www.datarobot.com/
+H20 AI: https://www.h2o.ai/
+Bigquery-ml: https://cloud.google.com/bigquery-ml
+Monkeylearn: https://monkeylearn.com/
+Altair RapidMiner: https://altair.com/altair-rapidminer
+Orange Data Mining: https://orangedatamining.com/
+KNIME: https://www.knime.com/
+ROS: https://www.ros.org/
+OpenAI Gym: https://www.gymlibrary.dev/
+Stable-Baselines3: https://stable-baselines3.readthedocs.io/
+Unity ML-Agents: https://unity.com/products/machine-learning-agents
+MuJoCo: https://deepmind.com/research/open-source/mujoco
+Rasa: https://rasa.com/
+Prompt Perfect: https://promptperfect.jina.ai/
+Prompt Base: https://promptbase.com/
+Papers with Code: https://paperswithcode.com/
+ArXiv.org: https://arxiv.org/list/cs.LG/recent
+Google Research: https://research.google/
+OpenAI Research: https://openai.com/research
+DeepMind Publications: https://www.deepmind.com/research/publications
+Meta AI: https://ai.meta.com/
+Microsoft Research: https://www.microsoft.com/en-us/research/
+Anthropic Research: https://www.anthropic.com/research
+EleutherAI: https://www.eleuther.ai/
+Allen Institute for AI: https://allenai.org/
+VS Code: https://code.visualstudio.com/
+GitHub: https://github.com/
+Docker: https://www.docker.com/
+Postman: https://www.postman.com/
+PyCharm: https://www.jetbrains.com/pycharm
+Jira: https://www.atlassian.com/software/jira
+Notion: https://www.notion.so/
+Confluence: https://www.atlassian.com/software/confluence
+Google Docs: https://docs.google.com/
+HackMD: https://hackmd.io/
+Google Collab: https://colab.research.google.com/
+Deepnote: https://deepnote.com/
+JetBrains Datalore: https://datalore.jetbrains.com/
+Jira: https://www.atlassian.com/software/jira
+ClickUp: https://clickup.com/
+Trello: https://trello.com/
+Miro: https://miro.com/
+Lucidchart: https://www.lucidchart.com/
+Draw.io: https://www.diagrams.net/
+Slack: https://slack.com/
+Discord: https://discord.com/
+Zoom: https://zoom.us/
+Google Meet: https://meet.google.com/
+Apache Hadoop: https://hadoop.apache.org/
+Apache Spark: https://spark.apache.org/
+Apache Flink: https://flink.apache.org/
+Dask: https://dask.org/
+Ray: https://www.ray.io/
+Delta Lake: https://delta.io/
+Apache Iceberg: https://iceberg.apache.org/
+Apache Hudi: https://hudi.apache.org/
+Amazon S3: https://aws.amazon.com/s3/
+Google Cloud Storage: https://cloud.google.com/storage/
+Azure Data Lake Storage: https://azure.microsoft.com/en-us/services/storage/data-lake-storage/
+Apache Kafka: https://kafka.apache.org/
+Apache Pulsar: https://pulsar.apache.org/
+Amazon Kinesis: https://aws.amazon.com/kinesis/
+Apache Hive: https://hive.apache.org/
+Trino: https://trino.io/
+Amazon Web Services: https://aws.amazon.com/
+Google Cloud Platform: https://cloud.google.com/
+Microsoft Azure: https://azure.microsoft.com/
+IBM Cloud: https://www.ibm.com/cloud
+Oracle Cloud Infrastructure: https://www.oracle.com/cloud/
+Amazon S3: https://aws.amazon.com/s3/
+Google Cloud Storage: https://cloud.google.com/storage/
+Azure Blob Storage: https://azure.microsoft.com/en-us/products/storage/blobs/
+Amazon EC2: https://aws.amazon.com/ru/ec2/
+Google Compute Engine: https://cloud.google.com/products/compute
+Azure Virtual Machines: https://azure.microsoft.com/en-us/products/virtual-machines/
+Amazon EKS: https://aws.amazon.com/ru/eks/
+Google Kubernetes Engine: https://cloud.google.com/kubernetes-engine
+Azure Kubernetes Service: https://azure.microsoft.com/en-us/products/kubernetes-service/
+Google Vertex AI: https://cloud.google.com/vertex-ai
+Azure Machine Learning: https://azure.microsoft.com/en-us/products/machine-learning/
+IBM Watson Studio: https://www.ibm.com/products/watson-studio
+DigitalOcean: https://www.digitalocean.com/
+Heroku: https://www.heroku.com/
+BigID: https://bigid.com/
+Collibra: https://www.collibra.com/
+Alation: https://www.alation.com/
+Privacera: https://www.privacera.com/
+Immuta: https://www.immuta.com/
+Snyk: https://snyk.io/
+Data Sunrise: https://www.datasunrise.com/
+Varonis: https://www.varonis.com/
+OpenDP: https://opendp.org/
+Google Differencial Privacy: https://github.com/google/differential-privacy
+PySyft: https://github.com/OpenMined/PySyft
+Anonlink: https://github.com/data61/anonlink
+GDPR.eu: https://gdpr.eu/
+HIPAA Journal: https://www.hipaajournal.com/
+NIST Privacy Framework: https://www.nist.gov/privacy-framework
+PostgreSQL: https://www.postgresql.org/
+MySQL: https://www.mysql.com/
+MongoDB: https://www.mongodb.com/
+Redis: https://redis.io/
+SQLite: https://www.sqlite.org/
+DynamoDB: https://aws.amazon.com/dynamodb
+ClickHouse: https://clickhouse.com/
+Amazon RDS: https://aws.amazon.com/rds/
+Cockroach DB: https://www.cockroachlabs.com/
+Neo4j: https://neo4j.com/
+ElasticSearch: https://www.elastic.co/elasticsearch/
+Apache Airflow: https://airflow.apache.org/
+dbt: https://www.getdbt.com/
+Apache Kafka: https://kafka.apache.org/
+Snowflake: https://www.snowflake.com/
+BigQuery: https://cloud.google.com/bigquery
+Databricks: https://databricks.com/
+Apache Spark: https://spark.apache.org/
+Delta Lake: https://delta.io/
+Apache Flink: https://flink.apache.org/
+AWS Glue: https://aws.amazon.com/glue/
+Great Expectations: https://greatexpectations.io/
+Apache Airflow: https://airflow.apache.org/
+Apache NiFi: https://nifi.apache.org/
+Dagster: https://nifi.apache.org/
+dbt: https://www.getdbt.com/
+luigi: https://github.com/spotify/luigi
+StreamSets: https://streamsets.com/
+Talend Data Fabric: https://www.talend.com/products/data-fabric
+Hevo Data: https://hevodata.com/
+Fivetran: https://www.fivetran.com/
+Monte Carlo: https://www.montecarlodata.com/
+DataKitchen: https://datakitchen.io/
+Unravel: https://www.unraveldata.com/
+IBM Databand: https://www.ibm.com/products/databand
+BMC Control-M: https://www.bmc.com/it-solutions/control-m.html
+ICEDQ: https://www.icedq.com/
+MLflow: https://mlflow.org/
+Kubeflow: https://kubeflow.org/
+TensorFlow Extended: https://www.tensorflow.org/tfx
+Seldon Core: https://www.seldon.io/solutions/core
+MLReef: https://mlreef.com/
+Neptune.ai: https://neptune.ai/
+Weights & Biases: https://wandb.ai/
+Comet ML: https://www.comet.com/
+DVC: https://dvc.org/
+Feast: https://feast.dev/
+KServe: https://kserve.github.io/website
+BentoML: https://www.bentoml.com/
+MLRun: https://www.mlrun.org/
+Flyte: https://flyte.org/
+Metaflow: https://metaflow.org/
+TensorFlow Serving: https://www.tensorflow.org/tfx/guide/serving
+TorchServe: https://pytorch.org/serve/
+NVIDIA Triton Inference Server: https://developer.nvidia.com/nvidia-triton-inference-server
+Seldon Core: https://www.seldon.io/tech/products/core/
+KServe: https://kserve.github.io/website/
+ONNX: https://onnx.ai/
+MLflow Models: https://mlflow.org/docs/latest/models.html
+BentoML: https://www.bentoml.com/
+Mlflow Tracking: https://mlflow.org/docs/latest/tracking.html
+Data Version Control: https://dvc.org/
+ModelDB: https://github.com/VertaAI/modeldb
+WhyLabs: https://whylabs.ai/
+Fiddler: https://www.fiddler.ai/
+Evidently AI: https://www.evidentlyai.com/
+Great Expectations: https://greatexpectations.io/
+Soda: https://sodadata.io/
+Deequ: https://github.com/awslabs/deequ
+Pandera: https://pandera.readthedocs.io/
+TensorFlow Data Validation: https://www.tensorflow.org/tfx/data_validation/overview
+Monte Carlo: https://www.montecarlodata.com/
+Metaplane: https://www.metaplane.dev/
+Tenable Accurics: https://www.tenable.com/products/accurics
+IBM Databand: https://www.databand.ai/
+Open Lineage: https://openlineage.io/
+Amundsen: https://www.amundsen.io/
+DataHub: https://datahubproject.io/
+Apache Atlas: https://atlas.apache.org/
+Colibra Data Intelligence Platform: https://www.collibra.com/
+Alation Data Intelligence Platform: https://www.alation.com/
+Atlan: https://atlan.com/
+SAP Master Data Governance: https://www.sap.com/products/data-cloud/master-data-governance.html
+Talend Data Fabric: https://www.talend.com/products/data-fabric
+OvalEdge: https://www.ovaledge.com/
+Precisely Data 360 Govern: https://www.precisely.com/product/data360-govern
+Qlik Data Integration Platform: https://www.qlik.com/us
+Microsoft Power Platform: https://www.microsoft.com/en-us/power-platform/
+LogicGate Value Realization Tool: https://www.logicgate.com/platform/value-realization-tool/
+Premiere International Data Value Realization: https://www.premier-international.com/solution/data-value-realization
+Altair RapidMier AI Fabric: https://penfriend.ai/blog/data-value-realization
+Google Analytics: https://analytics.google.com/
+Tableau: https://www.tableau.com/
+Power BI: https://powerbi.microsoft.com/
+Apache Superset: https://superset.apache.org/
+Metabase: https://www.metabase.com/
+Looker: https://looker.com/
+Plotly Dash: https://plotly.com/dash/
+Streamlit: https://streamlit.io/
+Mode Analytics: https://mode.com/
+Redash: https://redash.io/
+Google Sheets: https://sheets.google.com/
+Zoho Analytics: https://www.zoho.com/analytics/
+Tableau: https://www.tableau.com/
+Microsoft Power BI: https://powerbi.microsoft.com/
+Qlik Sense: https://www.qlik.com/us/products/qlik-sense
+Looker: https://looker.com/
+Google Charts: https://developers.google.com/chart
+Datawrapper: https://www.datawrapper.de/
+Infogram: https://infogram.com/
+Chart.js: https://www.chartjs.org/
+D3.js: https://d3js.org/
+Plotly: https://plotly.com/
+Grafana: https://grafana.com/
+Highcharts: https://www.highcharts.com/
+FusionCharts: https://www.fusioncharts.com/
+Zoho Analytics: https://www.zoho.com/analytics
+Sisense: https://www.sisense.com/
+Seaborn: https://seaborn.pydata.org/
+DoWhy: https://www.pywhy.org/
+EconML: https://www.microsoft.com/en-us/research/project/econml/
+Causal ML: https://github.com/uber/causalml
+CausalNex: https://causalnex.readthedocs.io/en/latest/
+TETRAD: https://www.ccd.pitt.edu/tools/
+causalBETA: https://arxiv.org/abs/2310.12358
+Causal WIZARD: https://www.causalwizard.app/inference/article/software
+ArcGIS Causal Inference Tool: https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/causal-inference-analysis.htm
+causalStudio: https://www.targetrwe.com/innovative-technology/causalstudio/
+Optimizely: https://www.optimizely.com/
+VWO: https://vwo.com/
+Firebase A/B Testing: https://firebase.google.com/products/ab-testing
+Apptimize: https://apptimize.com/
+Statsig: https://www.statsig.com/
+Kameloon: https://www.kameleoon.com/
+AB Tasty: https://www.abtasty.com/
+Omniconvert: https://www.omniconvert.com/
+Unbounce: https://unbounce.com/
+Crazy Egg: https://www.crazyegg.com/
+UXCam: https://uxcam.com/
+scikit-learn: https://scikit-learn.org/
+XGBoost: https://xgboost.ai/
+LightGBM: https://lightgbm.readthedocs.io/
+CatBoost: https://catboost.ai/
+TensorFlow: https://www.tensorflow.org/
+Keras: https://keras.io/
+PyTorch: https://pytorch.org/
+JAX: https://github.com/google/jax
+fastai: https://www.fast.ai/
+H2O.ai: https://www.h2o.ai/
+DataRobot: https://www.datarobot.com/
+Google AutoML: https://cloud.google.com/automl
+MLJAR AutoML: https://mljar.com/automl/
+Auto-sklearn: https://automl.github.io/auto-sklearn/
+TPOT: https://automl.github.io/auto-sklearn/
+Synthetic Data Vault: https://sdv.dev/
+YData Synthetic: https://ydata.ai/
+Mostly AI: https://mostly.ai/
+Gretel.ai: https://gretel.ai/
+Synthea: https://synthea.mitre.org/
+Hazy: https://hazy.com/
+SDMetrics: https://docs.sdv.dev/sdmetrics/
+Tonic.ai: https://www.tonic.ai/
+Unity Perception: https://github.com/Unity-Technologies/com.unity.perception
+Datagen: https://datagen.tech/
+Snorkel AI: https://snorkel.ai/
+TensorFlow Lite: https://www.tensorflow.org/lite
+ONNX Runtime: https://onnxruntime.ai/
+PyTorch Mobile: https://pytorch.org/mobile/home/
+Core ML: https://developer.apple.com/documentation/coreml
+MediaPipe: https://developers.google.com/mediapipe
+OpenVINO: https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html
+NVIDIA Jetson: https://developer.nvidia.com/embedded-computing
+TensorRT: https://developer.nvidia.com/tensorrt
+TVM: https://tvm.apache.org/
+Edge Impulse: https://www.edgeimpulse.com/
+DeepC: https://github.com/DeepC-Project/deepC
+TinyML Foundation: https://www.tinyml.org/
+Neural Magic: https://www.neuralmagic.com/
+OctoML: https://octoml.ai/
+Microsoft Responsible AI Toolbox: https://www.microsoft.com/en-us/ai/tools-practices
+IBM AI Explainability 360: https://www.ibm.com/ai/ai-explainability-360
+Amazon SageMaker Clarify: https://aws.amazon.com/sagemaker/clarify/
+Google Responsible AI Toolkit: https://cloud.google.com/responsible-ai
+Credo AI: https://www.credo.ai/
+Holistic AI: https://www.holisticai.com/
+OneTrust AI Governance: https://www.onetrust.com/solutions/ai-governance/
+Collibra AI Governance: https://www.collibra.com/products/ai-governance
+AI Fairness 360: https://aif360.mybluemix.net/
+Responsible AI Question Bank: https://arxiv.org/abs/2408.11820
+Karpov Cources Симулятор Аналитика Данных: https://karpov.courses/simulator
+DataWars: https://www.datawars.io/
+DataStratch: https://www.stratascratch.com/
+Kaggle: https://www.kaggle.com/
+DataCamp Projects: https://www.datacamp.com/projects?page=1
+Dataquest Projects: https://www.dataquest.io/data-science-projects/
+Databricks Community Edition: https://www.databricks.com/try-databricks
+OpenAI Playground: https://platform.openai.com/playground
